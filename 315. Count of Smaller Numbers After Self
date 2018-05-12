@@ -1,7 +1,4 @@
-Method 1.
-
-Binary Search
-class Solution {
+Method 1. Binary Search
     public List<Integer> countSmaller(int[] nums) {
         List<Integer> ret = new ArrayList<Integer>();
         
